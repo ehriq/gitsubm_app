@@ -1,0 +1,3 @@
+[submodule "analisador"]
+	path = analisador
+	url = git@github.com:ehriq/gitsubm_lib.git
